@@ -10,5 +10,9 @@
     
     <h1>A git exercise</h1>
 
+    <footer>
+        &copy; <?php echo date('Y'); ?> The spectacular me
+    </footer>
+
 </body>
 </html>
